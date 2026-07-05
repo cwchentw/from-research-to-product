@@ -1,4 +1,4 @@
-# Computational Epistemology
+# From Research to Product
 
 This repository presents a practical pipeline for knowledge exploration and project development.  
 

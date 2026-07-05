@@ -1,4 +1,6 @@
-# Computational Epistemology
+# From Research to Product
+
+*Notes on Computational Epistemology*
 
 ## Preface
 
