@@ -97,6 +97,13 @@ If a production language is used directly for prototype development, the journey
 * Create a new branch in Git for the production project. Do not overwrite or delete the existing prototype project.
 * Once the production project matures, move the prototype project to a separate branch for archival, and merge the production branch back into the `main` or `master` branch.
 
+## Community
+
+- Compared to community, **dogfooding is more important**. Many personal or internal projects may not have a community, yet they continue to evolve through consistent dogfooding.
+- Even for internal projects, it is essential to maintain reasonable generality. Avoid hardcoding literals, file paths, or environment-specific settings.
+- For a project, the value of community lies in external users challenging its validity. Responding appropriately to community feedback can help improve the project.
+- When community direction diverges from internal needs, revisit the problem space and abstractions. This may reveal opportunities for refinement.
+
 ## Conclusion
 
 The same abstraction mapped from a problem space will be re-implemented at different scales across the stages of model, prototype, and product. On the surface, this may seem like wasted effort, but it is in fact the core of the pipeline: **code is merely the artifact of exploration, while abstract models are the true accumulation of knowledge (Code as Epistemic Artifact).**
