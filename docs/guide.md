@@ -97,6 +97,15 @@ If a production language is used directly for prototype development, the journey
 * Create a new branch in Git for the production project. Do not overwrite or delete the existing prototype project.
 * Once the production project matures, move the prototype project to a separate branch for archival, and merge the production branch back into the `main` or `master` branch.
 
+## Tech Stack
+
+- Some tech stacks may not introduce new mental models, but they effectively solve practical problems. These stacks should still be learned, though not in depth—just enough to handle real-world tasks.
+- Some tech stacks may not directly address practical problems, yet their mental models are highly inspiring. These stacks are worth exploring; even without deep study, observing their way of thinking can be valuable.
+- In your spare time, consider learning tech stacks with inspiring mental models. Observing how other developers solve problems through different perspectives can provide useful insights for future projects.
+- It is important to understand the purpose of a project. Not every project is designed to solve practical problems—some exist to help us better understand the problem space itself.
+
+Examples: **Prolog, Lisp, Haskell, AWK** are all tech stacks with inspiring mental models. While they may not directly enhance career prospects, they greatly contribute to understanding the essence of problems.
+
 ## Community
 
 - Compared to community, **dogfooding is more important**. Many personal or internal projects may not have a community, yet they continue to evolve through consistent dogfooding.
