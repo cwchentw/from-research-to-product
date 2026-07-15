@@ -92,6 +92,8 @@ If a production language is used directly for prototype development, the journey
 
 ## Writing the Production System
 
+* A product refers to usable code, including applications and libraries.
+* Some products require deployment considerations, in which case the choice of technology stack is constrained. Conversely, products without deployment issues allow freedom in choosing the technology stack.
 * Never write a production system directly without a prototype. Without a prototype as a reference, development iterations will be excessively slow.
 * Since a prototype already serves as an implementation baseline, this stage can even leverage vibe coding to quickly generate code, followed by manual fine-tuning and optimization.
 * Create a new branch in Git for the production project. Do not overwrite or delete the existing prototype project.
